@@ -12,20 +12,6 @@ namespace ValidatingNetTopology
     {
         static void Main(string[] args)
         {
-            var testing = GetAllCommandClasses();
-
-            foreach (var className in testing)
-            {
-                if (className.Namespace != null && className.Namespace.Equals(""))
-                {
-                    
-                }
-                
-                // if (className.Name.EndsWith("Test"))
-                // {
-                //     return;
-                // }
-            }
             
             CoordinatesTestingService testingService = new CoordinatesTestingService();
 
@@ -73,14 +59,6 @@ namespace ValidatingNetTopology
                     stateLineTest.ALotOfCoordinatesInAsia, stateLineTest.StateName);
             }
 
-        }
-
-        private static IEnumerable<Type> GetAllCommandClasses()
-        {
-            var assembly = Assembly.GetExecutingAssembly();
-            var commandClasses = assembly.GetTypes().Where(t => t.Name.Contains("StateLine"));
-
-            return commandClasses;
         }
     }
 }
