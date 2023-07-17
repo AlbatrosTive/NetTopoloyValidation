@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lbZV1+uuh2bXhZavLlQ57cCqrQWZBq4Yx8NCZmKGKM2754CjxanOsRy1bJDI7my6sPQTue52FTjUTFJQUDIKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\albatros\\RiderProjects\\ValidatingNetTopology\\ValidatingNetTopology\\ValidatingNetTopology.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albatros\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\albatros\\.nuget\\packages\\projnet\\2.0.0\\projnet.2.0.0.nupkg.sha512",
+    "C:\\Users\\albatros\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\albatros\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\albatros\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

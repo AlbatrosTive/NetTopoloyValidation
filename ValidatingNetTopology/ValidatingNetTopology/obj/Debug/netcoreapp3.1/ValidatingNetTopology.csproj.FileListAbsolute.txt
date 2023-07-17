@@ -1,0 +1,17 @@
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\ValidatingNetTopology.exe
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\ValidatingNetTopology.deps.json
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\ValidatingNetTopology.runtimeconfig.json
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\ValidatingNetTopology.runtimeconfig.dev.json
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\ValidatingNetTopology.dll
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\ValidatingNetTopology.pdb
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.AssemblyInfoInputs.cache
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.AssemblyInfo.cs
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.csproj.CoreCompileInputs.cache
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.csproj.CopyComplete
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.dll
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.pdb
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.genruntimeconfig.cache
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\bin\Debug\netcoreapp3.1\ProjNET.dll
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.csproj.AssemblyReference.cache
+C:\Users\albatros\RiderProjects\ValidatingNetTopology\ValidatingNetTopology\obj\Debug\netcoreapp3.1\ValidatingNetTopology.GeneratedMSBuildEditorConfig.editorconfig
